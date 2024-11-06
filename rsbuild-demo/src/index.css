@@ -1,0 +1,9 @@
+@unocss preflights;
+@unocss default;
+
+@unocss;
+
+body {
+    --uno: font-italic;
+    color: green;
+}
